@@ -10,14 +10,11 @@ url: "https://janczizikow.github.io/" # the base hostname & protocol for your si
 
 # SEO PLUGIN
 social:
-  name: Your Name
+  name: Millo
   links:
-    - https://twitter.com/BenBalter
-    - https://www.facebook.com/ben.balter
-    - https://www.linkedin.com/in/BenBalter
-    - https://plus.google.com/+BenBalter
-    - https://github.com/benbalter
-    - https://keybase.io/benbalter
+    - https://twitter.com/raising_millo
+    - https://www.facebook.com/raising_millo
+    - https://www.instagram.com/raising_millo
 
 # THEME SETTINGS
 navigation: # Navigation links
