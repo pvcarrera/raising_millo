@@ -10,6 +10,7 @@ RUN curl https://deb.nodesource.com/setup_8.x \
     | bash - \
     && apt-get install -yqq nodejs
 
+RUN npm install --global gulp-cli
 RUN useradd --user-group \
             --create-home \
             --shell /bin/false \
@@ -23,7 +24,7 @@ WORKDIR $HOME
 COPY --chown=app:app Gemfile* $HOME/
 COPY --chown=app:app package* $HOME/
 RUN bundle install --jobs=20 --clean
-RUN npm install
+RUN npm install && npm install gulp
 
 COPY . $HOME/
 
