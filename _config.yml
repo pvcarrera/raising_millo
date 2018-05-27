@@ -10,7 +10,7 @@ url: "https://www.raising-millo.com" # the base hostname & protocol for your sit
 social:
   name: Millo
   links:
-    - https://twitter.com/raising_millo
+    - https://twitter.com/RaisingMillo
     - https://www.facebook.com/raising_millo
     - https://www.instagram.com/raising_millo
 
@@ -27,7 +27,7 @@ hero_img: posts/hero_image_lg.jpg # Main background image: use the path from /as
 
 email: raisingmillo@gmail.com # email for form submission
 
-twitter_username: raising_millo
+twitter_username: RaisingMillo
 facebook_username: raisingmillo
 instagram_username: raising_millo
 
