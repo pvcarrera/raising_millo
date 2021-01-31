@@ -2,7 +2,7 @@
 title: Raising Millo # your site title
 author: Ana Hernandez # You :P
 description: > # Meta description of Homepage
-  A blog about the challenges and joys of raising a Galician Shepherd puppy dog. Welcome to Millo's world!
+  A blog about the challenges and joys of raising a Galician Shepherd puppy dog. Welcome to the world of Millo!
 # baseurl: "/sleek" # the subpath of your site, e.g. /blog
 url: "https://www.raising-millo.com" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -21,7 +21,7 @@ navigation: # Navigation links
   - {name: 'Contact', link: '/contact'}
 
 tagline: >
-  Raising a Galician Shepherd Dog in the mountains. Welcome to the world of Millo
+  Raising a Galician Shepherd Dog. Welcome to the world of Millo
 
 hero_img: posts/hero_image_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
