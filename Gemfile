@@ -6,6 +6,7 @@ gem "jekyll-sleek"
 gem "jekyll-seo-tag", "~> 2.3"
 gem "jekyll-sitemap", "~> 1.1"
 gem 'jekyll-feed'
+gem 'kramdown-parser-gfm'
 
 group :development do
   gem "rake", "~> 10.0"
